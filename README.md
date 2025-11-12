@@ -34,12 +34,6 @@ Advanced corporate customer management system for WordPress and WooCommerce. Off
 - Notification and reason when application is rejected
 - Integration with Pepech Notification System
 
-## Installation
-
-1. Install the plugin files Upload to the `wp-content/plugins/pepech-kurumsal-musteriler/` folder.
-2. Activate the plugin from the WordPress admin panel.
-3. The database table and role will be created automatically.
-
 ## Requirements
 
 - WordPress 5.0+
